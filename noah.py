@@ -1,4 +1,4 @@
-# Project Backup Script Windows ver
+# Project Backup Script ver 0.0.1
 # Jeff Dickson Oct 1, 2022
 # The intent is to create a script that will make copies of projects onto whatever medium you point it at
 
