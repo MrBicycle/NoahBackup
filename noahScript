@@ -1,0 +1,5 @@
+#!/bin/bash
+echo ================
+echo ======NOAH======
+echo ================
+python3 noah.py
