@@ -2,4 +2,5 @@
 ECHO ================
 ECHO ======NOAH======
 ECHO ================
-python3 noah.py
+ECHO Ensure the directory pointer is absolute for the following command:
+python3 C:\Noah\noah.py
